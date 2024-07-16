@@ -1,4 +1,4 @@
-// FilterButtons is checks task which is completed or not
+// This checks which task is completed and incomplete
 
 import React from 'react';
 import { useDispatch, useSelector } from 'react-redux';
